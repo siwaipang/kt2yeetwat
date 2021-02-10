@@ -3,6 +3,7 @@ Samenvatting
 ![samenvatting](https://github.com/siwaipang/kt2yeetwat/blob/main/samenvatting.png)
 
  Maak eerst de kwaliteitshandboek
+ 
  ! betekent dat het in de planning MOET staan
  
  ![kwaliteitshandboek](https://github.com/siwaipang/kt2yeetwat/blob/main/kwaliteitshandboek.png)
