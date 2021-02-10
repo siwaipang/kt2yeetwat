@@ -13,5 +13,11 @@
  
  ## Maak de testplan
   ![testvoorbereiding](https://github.com/siwaipang/kt2yeetwat/blob/main/photos/testvoorbereiding.png)
+
+  Welke onderdelen van de applicatie moeten getest worden. Vul dat hier in.
+
   ![testvoorbereiding 2](https://github.com/siwaipang/kt2yeetwat/blob/main/photos/testvoorbereiding2.png)
+
+  Vul hier alleen de problemen in.
+  
   ![testlog](https://github.com/siwaipang/kt2yeetwat/blob/main/photos/testlog.png)
