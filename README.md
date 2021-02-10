@@ -1,4 +1,3 @@
-# kt2yeetwat
 ## Samenvatting
 ![samenvatting](https://github.com/siwaipang/kt2yeetwat/blob/main/samenvatting.png)
 
@@ -13,3 +12,6 @@
  Bij 'Wijzigingen na de test' schrijf je op welke bestanden je gewijzigd hebt nadat je het programma hebt getest
  
  ## Maak de testplan
+  ![kwaliteitshandboek](https://github.com/siwaipang/kt2yeetwat/blob/main/testvoorbereiding.png)
+  ![kwaliteitshandboek](https://github.com/siwaipang/kt2yeetwat/blob/main/testvoorbereiding2.png)
+  ![kwaliteitshandboek](https://github.com/siwaipang/kt2yeetwat/blob/main/testlog.png)
