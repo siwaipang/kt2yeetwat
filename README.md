@@ -1,9 +1,9 @@
 # kt2yeetwat
-Samenvatting
+## Samenvatting
 ![samenvatting](https://github.com/siwaipang/kt2yeetwat/blob/main/samenvatting.png)
 
- Maak eerst de kwaliteitshandboek
- 
+## Maak eerst de kwaliteitshandboek
+
  ! betekent dat het in de planning MOET staan
  
  ![kwaliteitshandboek](https://github.com/siwaipang/kt2yeetwat/blob/main/kwaliteitshandboek.png)
@@ -12,4 +12,4 @@ Samenvatting
  
  Bij 'Wijzigingen na de test' schrijf je op welke bestanden je gewijzigd hebt nadat je het programma hebt getest
  
- Maak de testplan
+ ## Maak de testplan
