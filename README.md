@@ -5,7 +5,7 @@
 
  ! betekent dat het in de planning MOET staan
  
- ![kwaliteitshandboek](https://github.com/siwaipang/kt2yeetwat/blob/main/photos/waliteitshandboek.png)
+ ![kwaliteitshandboek](https://github.com/siwaipang/kt2yeetwat/blob/main/photos/kwaliteitshandboek.png)
  
  Bij kop 'Realisatie' moet je dezelfde punten invullen bij de onderdelen. Schrijf gelijk op hoe laat je klaar bent.
  
