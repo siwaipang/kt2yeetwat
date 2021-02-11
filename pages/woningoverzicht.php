@@ -11,15 +11,17 @@
 <body>
     <?php include 'include/menu.php' ?>
 
-    <a href="woningToevoegen.php"><button type="button" class="btn btn-light">Woning Toevoegen</button></a>
+    <a href="woningToevoegen.php">
+        <button type="button" class="btn btn-light">Woning Toevoegen</button>
+    </a>
     <table class="table table-striped">
         <thead>
             <tr>
-                <th scope="col">#</th>
+                <th>#</th>
                 <th>Adres</th>
-                <th scope="col">Aantal Verdiepingen</th>
-                <th scope="col">Aantal Kamers</th>
-                <th scope="col">Oppervlakte</th>
+                <th>Aantal Verdiepingen</th>
+                <th>Aantal Kamers</th>
+                <th>Oppervlakte</th>
                 <th>Prijs</th>
                 <th>Huurder</th>
                 <th>Type Huis</th>
@@ -39,7 +41,7 @@
 
         /*ORDER BY huis.idKamer ASC*/
         ");
-        
+
         $huizen->execute();
 
         //de gegevens van de database op de site laten zien
@@ -49,7 +51,7 @@
             echo "<td>" . $huis["adres"] . "</td>";
             echo "<td>" . $huis["aantalVerdiepingen"] . "</td>";
             echo "<td>" . $huis["aantalKamers"] . "</td>";
-            echo "<td title='" . $huis["Breedte"] ." x " . $huis["Diepte"]."'>" . $huis["oppervlakte"] . "cm²</td>";
+            echo "<td title='" . $huis["Breedte"] . " x " . $huis["Diepte"] . "'>" . $huis["oppervlakte"] . "cm²</td>";
             echo "<td> €" . $huis["Prijs"] . "</td>";
             echo "<td>" . $huis["huurnaam"] . "</td>";
             echo "<td>" . $huis["huisnaam"] . "</td>";
