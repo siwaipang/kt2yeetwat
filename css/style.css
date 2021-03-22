@@ -1,23 +1,28 @@
-body{
-    margin:10px !important;
+body {
+    margin: 10px !important;
     /* background:red; */
 }
+
 .form-group {
     margin: 10px 0 !important;
-    width:40%;
+    width: 40%;
 }
+
 .input-group-prepend {
-    display:flex;
+    display: flex;
 }
+
 .dropdown-menu li {
-    margin-left:10px;
+    margin-left: 10px;
 }
+
 button.btn-light {
-    float:right;
+    float: right;
     border: 2px solid black;
 }
+
 button.btn-light:hover {
-    background:black;
+    background: black;
     border: 2px solid white;
-    color:white;
+    color: white;
 }

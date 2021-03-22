@@ -53,7 +53,7 @@
             <select name="TypeHuis_idTypeHuis" id="TypeHuis_idTypeHuis">
                 <option value="" selected="true" disabled="disabled">Type Huis</option>
                 <option value="1" name="1">Koophuis</option>
-                <option value="2" name="2">Huurhuis</option>
+                <option value="2" name="2">&#8361; Huurhuis</option>
             </select>
 
             <select name="Status_idStatus" id="Status_idStatus">
